@@ -1,4 +1,4 @@
-# please see the following resources included as docx. in the parent folder
+# Please see the following resources included as docx. in the parent folder
 
 ## Part 2: Site Specific Safety Orientation Checklist
 This is a required orientation checklist that must be filled out when Part 1 New Worker Orientation Course is completed online. 
