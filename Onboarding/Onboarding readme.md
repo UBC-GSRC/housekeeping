@@ -13,7 +13,7 @@ This is a required orientation checklist that must be filled out when Part 1 New
     -	Fire extinguisher
 -	General emergency
     -	If fire, get everyone out, lights out, close door, no elevator
-    -	Anything you feel is unsafe, talk to Rick or Katrin
+    -	Anything you feel is unsafe, talk to Devin or Adam
 -	Security
     - Landline 2-2222
     -	604-822-2222
