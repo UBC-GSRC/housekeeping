@@ -7,32 +7,32 @@ This is a required orientation checklist that must be filled out when Part 1 New
 ## New Staff / Student Orientation Part 2
 
 -	Alarm 
-  -	Morning, evening, door, what if
+    -	Morning, evening, door, what if
 - 	Main lab door
-  -	Check latches if last to leave
-  -	Fire extinguisher
+    -	Check latches if last to leave
+    -	Fire extinguisher
 -	General emergency
-  -	If fire, get everyone out, lights out, close door, no elevator
-  -	Anything you feel is unsafe, talk to Rick or Katrin
+    -	If fire, get everyone out, lights out, close door, no elevator
+    -	Anything you feel is unsafe, talk to Rick or Katrin
 -	Security
-  -	Landline 2-2222
-  -	604-822-2222
+    - Landline 2-2222
+    -	604-822-2222
 -	First Aid
-  -	Students 911 then 604-822-4444
-  -	Staff 604-822-4444 or 911
-  -	AED location
+    -	Students 911 then 604-822-4444
+    -	Staff 604-822-4444 or 911
+    -	AED location
 -	PPE
-  -	Gloves
-  -	Hearing protection 
+    -	Gloves
+    -	Hearing protection 
 -	Tripping hazards, slip hazards, water hazards
 -	Washrooms
 -	Cleaning
 -	Recycling
 -	Fridge, Microwave
 -	Soil analysis area
-  -	Devin’s phone 778-678-7376
+    -	Devin’s phone 778-678-7376
 -	Back stair location
 -	Muster location 
 -	Workshop
-  -	Fire extinguisher
-  -	Lab phone
+    -	Fire extinguisher
+    -	Lab phone
