@@ -1,2 +1,2 @@
 # housekeeping
-This repository is for making issues unrelated to a specific faulty member or project. Additionally, it can be used to store information usefull for GSRC members. 
+This repository is to hold issues for projects that do not need their own repository. What needs its own repository? Projects that require software or will have a lot of documents that need to be version controlled. 
